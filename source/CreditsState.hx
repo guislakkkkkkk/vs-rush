@@ -84,6 +84,7 @@ class CreditsState extends MusicBeatState
             ['Psych Engine Android Port'],
             ['idklool (or Boyfriend FNF idc)', 'nothing', 'Hi I ported the Psych Engine', 'youtube.com/c/BoyfriendFNF', 'FFFFFF'],
             ['Dxgamer', 'dxgamer', 'Coder Help', 'https://youtube.com/c/Dxgamer7405', 'FFFFFF'],
+			[''],
 			['Cara q fez o port lol'],
             ['Guislakkkk',    'gui',                'a',                    'https://youtube.com/channel/UCVniqkS8csFDi8U2N6UrVhQ',     'FE0015'],
             [''],
