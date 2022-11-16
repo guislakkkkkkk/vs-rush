@@ -1,77 +1,77 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-1,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "bf_idle"
+			"fps": 24,
+			"name": "bf_idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				50,
 				-10
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "bf_left"
+			"fps": 24,
+			"name": "bf_left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				6,
 				-16
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "bf_down"
+			"fps": 24,
+			"name": "bf_down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				70,
 				13
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "bf_up"
+			"fps": 24,
+			"name": "bf_up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "bf_right"
+			"fps": 24,
+			"name": "bf_right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				334,
 				357
 			],
-			"loop": false,
-			"fps": 30,
 			"anim": "looking",
-			"indices": [],
-			"name": "bf_looking"
+			"fps": 30,
+			"name": "bf_looking",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/bf_rushwalk",
 	"position": [
-		0,
-		300
+		220,
+		420
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -81,9 +81,9 @@
 		209
 	],
 	"camera_position": [
-		0,
-		0
+		220,
+		-130
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 2
 }
