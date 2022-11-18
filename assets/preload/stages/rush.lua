@@ -4,10 +4,6 @@ speed = 1
 endingsection = false
 local shadowLimit = 5
 
---[[
-    the visuals side of things...
-]]
-
 function onCreatePost()
     if lowQuality then
         shadowLimit = 3

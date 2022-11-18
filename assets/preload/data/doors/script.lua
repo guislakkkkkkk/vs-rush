@@ -18,8 +18,8 @@ function onCreate()
     setProperty('gradien2.color', getColorFromHex('FFC000'))
 
     makeAnimatedLuaSprite('sillyy', 'doors cutscene', 0, 150)
-    setAnimatedScrollFactor('doors cutscene', 2, 2)
     addAnimationByPrefix('sillyy', 'play', 'Symbol 1', 12, false)
+    setAnimatedScrollFactor('doors cutscene', 2, 2)
     
 
 end
